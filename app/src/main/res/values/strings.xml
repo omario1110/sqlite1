@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sqlite</string>
+    <string name="ent">Menu Generale</string>
+    <string name="btn1">LISTE DES PRODUITS</string>
+    <string name="btn2">Fiche PRODUIT</string>
+    <string name="btn3">NOUVEAU PRODUITS</string>
+    <string name="btn4">EDITER PRODUITS</string>
+    <string name="edith">donner le libelle de produit</string>
+</resources>
